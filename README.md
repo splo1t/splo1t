@@ -94,11 +94,11 @@ class KavishkaProfile:
         <small>Security Challenges</small>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/60/000000/discord-logo.png" width="60" height="60"/>
+        <img src="https://discord.com/assets/0cbd83c5e2d5aa56b9b47aa8b5ff4f3c.svg" width="60" height="60"/>
         <br/>
-        <strong>Head2Developer</strong>
+        <strong>Active Developer</strong>
         <br/>
-        <small>Discord Bot Expert</small>
+        <small>Discord Bot Developer</small>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/60/000000/artificial-intelligence.png" width="60" height="60"/>
