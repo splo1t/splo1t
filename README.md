@@ -18,7 +18,7 @@
   
   **🏆 Top 50 Sri Lanka - 20+ Badges Earned** | **🔥 Ethical Hacker** | **🛡️ Malware Research Specialist**
   
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1050582" alt="TryHackMe Profile"/>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1050582" style='border:none;'></iframe>
   
 </div>
 
