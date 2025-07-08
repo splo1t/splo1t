@@ -94,7 +94,7 @@ class KavishkaProfile:
         <small>Security Challenges</small>
       </td>
       <td align="center">
-        <img src="https://discord.com/assets/0cbd83c5e2d5aa56b9b47aa8b5ff4f3c.svg" width="60" height="60"/>
+        <img src="https://img.icons8.com/fluency/60/discord-active-developer-badge.png" width="60" height="60"/>
         <br/>
         <strong>Active Developer</strong>
         <br/>
