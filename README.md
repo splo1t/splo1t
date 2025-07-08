@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GameSploit.png)](https://tryhackme.com/p/GameSploit)
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GameSploit..png)](https://tryhackme.com/p/GameSploit.)
   
   **🏆 Top 50 Sri Lanka - 20+ Badges Earned** | **🔥 Ethical Hacker** | **🛡️ Malware Research Specialist**
   
