@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%26+Malware+Researcher;Discord+Bot+Developer;Top+50+Sri+Lanka+TryHackMe;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Web+Developer;Ethical+Hacker+%26+Malware+Researcher;Discord+Bot+Developer;Top+50+Sri+Lanka+TryHackMe;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=splo1t&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
