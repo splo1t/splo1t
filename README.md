@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Web+Developer;Ethical+Hacker+%26+Malware+Researcher;Discord+Bot+Developer;Top+50+Sri+Lanka+TryHackMe;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Web+Developer;Ethical+Hacker+%26+Malware+Researcher;Discord+Bot+Developer;Cryptography+%26+Cipher+Specialist;Top+50+Sri+Lanka+TryHackMe;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=splo1t&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
@@ -16,7 +16,7 @@
   
   [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GameSploit..png)](https://tryhackme.com/p/GameSploit.)
   
-  **🏆 Top 50 Sri Lanka - 20+ Badges Earned** | **🔥 Ethical Hacker** | **🛡️ Malware Research Specialist**
+  **🏆 Top 50 Sri Lanka - 20+ Badges Earned** | **🔥 Ethical Hacker** | **🛡️ Malware Research Specialist** | **🔐 Cryptography Expert**
   
 </div>
 
@@ -26,14 +26,22 @@
 class KavishkaProfile:
     def __init__(self):
         self.name = "Kavishka"
-        self.interests = ["AI & Machine Learning", "Linux & System Security", "Cybersecurity", "Ethical Hacking"]
-        self.specialization = ["Malware Analysis", "Digital Forensics", "Exploit Development"]
-        self.achievements = ["Top 50 Sri Lanka TryHackMe", "20+ Security Badges", "Discord Active Developer"]
-        self.focus_areas = ["Advanced Security Vulnerabilities", "Forensic Tools", "Bot Development"]
+        self.interests = ["AI & Machine Learning", "Linux & System Security", "Cybersecurity", "Ethical Hacking", "Cryptography"]
+        self.specialization = ["Malware Analysis", "Digital Forensics", "Exploit Development", "Cipher Implementation"]
+        self.achievements = ["Top 50 Sri Lanka TryHackMe", "20+ Security Badges", "Discord Active Developer", "ROT Cipher Developer"]
+        self.focus_areas = ["Advanced Security Vulnerabilities", "Forensic Tools", "Bot Development", "Cryptographic Tools"]
         self.vision = "Building next-generation cybersecurity solutions"
     
     def current_projects(self):
-        return ["MetaEye Forensics Tool", "Cybersecurity Research", "Discord Production Bot"]
+        return ["MetaEye Forensics Tool", "ROT Cipher Tool", "Cybersecurity Research", "Discord Production Bot"]
+    
+    def latest_creation(self):
+        return {
+            "project": "ROT Cipher Tool",
+            "description": "Universal ROT cipher implementation supporting all rotations (1-25)",
+            "features": ["Complete ROT encryption/decryption", "CLI interface", "Batch processing", "Educational tool"],
+            "status": "Production Ready"
+        }
 ```
 
 ---
@@ -107,8 +115,41 @@ class KavishkaProfile:
         <br/>
         <small>Machine Learning</small>
       </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/60/000000/security-configuration.png" width="60" height="60"/>
+        <br/>
+        <strong>Cryptography</strong>
+        <br/>
+        <small>Cipher Development</small>
+      </td>
     </tr>
   </table>
+  
+</div>
+
+---
+
+## 🔐 **Latest Creation: ROT Cipher Tool**
+
+<div align="center">
+  
+  ```ascii
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │  🔐 UNIVERSAL ROT CIPHER IMPLEMENTATION                     │
+  │                                                             │
+  │  ✨ Features:                                               │
+  │    • Complete ROT support (ROT-1 through ROT-25)           │
+  │    • Encryption & Decryption capabilities                   │
+  │    • Clean command-line interface                           │
+  │    • Educational cryptography tool                          │
+  │    • Production-ready implementation                        │
+  │                                                             │
+  │  🛠️ Perfect for: Security education, CTF challenges,       │
+  │     cryptographic analysis, and cipher demonstrations       │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
+  ```
   
 </div>
 
@@ -141,13 +182,36 @@ class KavishkaProfile:
 
 <div align="center">
   
+  <a href="https://github.com/splo1t/rot-cipher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=splo1t&repo=rot-cipher&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
+  </a>
+  
   <a href="https://github.com/splo1t/discord-logs-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=splo1t&repo=discord-logs-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
   </a>
   
+</div>
+
+<div align="center">
+  
   <a href="https://github.com/splo1t/meta-eye">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=splo1t&repo=meta-eye&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
   </a>
+  
+</div>
+
+---
+
+## 🔬 **Cybersecurity & Cryptography Toolkit**
+
+<div align="center">
+  
+  | Tool Category | Projects | Status |
+  |---------------|----------|--------|
+  | 🔐 **Cryptography** | ROT Cipher Tool | ✅ Complete |
+  | 🕵️ **Digital Forensics** | MetaEye | 🔄 Active Development |
+  | 🤖 **Discord Automation** | Logs Bot | ✅ Production |
+  | 🛡️ **Security Research** | Various CTF Tools | 🔄 Ongoing |
   
 </div>
 
@@ -159,7 +223,7 @@ class KavishkaProfile:
   
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rangikakavishka)
   
-  **Publishing cybersecurity insights, tutorials, and research findings**
+  **Publishing cybersecurity insights, cryptography tutorials, and research findings**
   
 </div>
 
@@ -177,10 +241,12 @@ class KavishkaProfile:
   │  → Founding a tech corporation focused on:                  │
   │    • Advanced cybersecurity solutions                       │
   │    • AI-powered threat detection                            │
+  │    • Cryptographic tool development                         │
   │    • Next-generation software development                   │
   │                                                             │
   │  → Pursuing global tech opportunities                       │
   │  → Expanding from Sri Lanka to international markets        │
+  │  → Contributing to open-source security tools               │
   │                                                             │
   └─────────────────────────────────────────────────────────────┘
   ```
@@ -205,9 +271,9 @@ class KavishkaProfile:
 
 <div align="center">
   
-  ### 💡 **"Code. Secure. Innovate. Repeat."**
+  ### 💡 **"Code. Secure. Encrypt. Innovate. Repeat."**
   
-  *Building tomorrow's cybersecurity solutions, one commit at a time.*
+  *Building tomorrow's cybersecurity solutions, one cipher at a time.*
   
   ![Wave](https://raw.githubusercontent.com/splo1t/splo1t/main/assets/wave.gif)
   
