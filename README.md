@@ -28,7 +28,7 @@ class KavishkaProfile:
         self.name = "Kavishka"
         self.interests = ["AI & Machine Learning", "Linux & System Security", "Cybersecurity", "Ethical Hacking"]
         self.specialization = ["Malware Analysis", "Digital Forensics", "Exploit Development"]
-        self.achievements = ["Top 50 Sri Lanka TryHackMe", "20+ Security Badges", "Head2Developer Discord Patch"]
+        self.achievements = ["Top 50 Sri Lanka TryHackMe", "20+ Security Badges", "Discord Active Developer"]
         self.focus_areas = ["Advanced Security Vulnerabilities", "Forensic Tools", "Bot Development"]
         self.vision = "Building next-generation cybersecurity solutions"
     
