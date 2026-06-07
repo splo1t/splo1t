@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Security+Tool+Builder;CTF+Player+%7C+Top+50+%F0%9F%87%B1%F0%9F%87%B0+TryHackMe;Blue+Team+%26+Forensics+Researcher;CS+%40+CINEC+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Web+Security+Tester;MERN+Stack+Developer;CTF+Player+%7C+Top+50+%F0%9F%87%B1%F0%9F%87%B0+TryHackMe;Security+Tool+Builder+%26+Forensics+Researcher)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=splo1t&color=00ff41&style=flat-square&label=Profile+Views"/>
 
@@ -18,12 +18,11 @@
   Name    : Rangika Kavishka  (H.V.A.R.Kavishka)
   Handle  : splo1t
   Based   : Sri Lanka  🇱🇰
-  Focus   : Blue Team · Forensics · CTF · Security Tooling
-  Degree  : CS @ CINEC Campus (incoming)
-  Now     : Building open-source security tools, hunting flags, going deeper on blue team
+  Focus   : Web Security Testing · Blue Team · Forensics · MERN Development
+  Now     : Building open-source security tools, hunting flags, testing web apps
 ```
 
-I build security tools and break things in CTFs. Most of my work lives at the intersection of forensics, automation, and defense — figuring out how attacks work so I can detect and respond to them better.
+I test web applications for security vulnerabilities, build full-stack apps with the MERN stack, and develop security tools. Most of my work sits where offense meets defense — understanding how attacks work to build better detections and more secure software.
 
 ---
 
@@ -79,12 +78,18 @@ I build security tools and break things in CTFs. Most of my work lives at the in
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-**Dev & Web**
+**MERN Stack**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Other**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
