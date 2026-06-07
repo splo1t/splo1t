@@ -100,7 +100,7 @@ I test web applications for vulnerabilities, lead security at MERNO Technologies
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GameSploit..png)](https://tryhackme.com/p/GameSploit.)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Splo1t.png)](https://tryhackme.com/p/Splo1t)
 
 **🏆 Top 50 Sri Lanka · 20+ Badges**
 
@@ -131,7 +131,7 @@ I test web applications for vulnerabilities, lead security at MERNO Technologies
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/GameSploit)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Splo1t)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rangika-kavishka/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rangikakavishka)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ngx6wQAPk2)
