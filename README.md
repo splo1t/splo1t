@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer"/>
-</div>
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Rangika%20Kavishka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=splo1t&descAlignY=60&descSize=18&descColor=00ff41"/>
 </div>
 
