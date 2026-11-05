@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Rangika%20Kavishka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=splo1t&descAlignY=60&descSize=18&descColor=00ff41"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=H.V.A.R%20Kavishka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=splo1t&descAlignY=60&descSize=18&descColor=00ff41"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ## About
 
 ```
-  Name    : Rangika Kavishka  (H.V.A.R.Kavishka)
+  Name    : H.V.A.R.Kavishka
   Handle  : splo1t
   Based   : Sri Lanka  🇱🇰
   Focus   : Web Security Testing · Blue Team · Forensics · MERN Development
